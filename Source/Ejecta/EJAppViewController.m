@@ -23,7 +23,7 @@
     [super loadView];
     
 	CGRect frame = UIScreen.mainScreen.bounds;
-    EJJavaScriptView *view = [[EJJavaScriptView alloc] initWithFrame:frame appFolder:@"App_daeModel/"];
+    EJJavaScriptView *view = [[EJJavaScriptView alloc] initWithFrame:frame appFolder:@"App_Other/"];
 	[self.view addSubview:view];
     self.view.backgroundColor = [UIColor whiteColor];
 	
