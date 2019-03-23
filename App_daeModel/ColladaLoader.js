@@ -2631,7 +2631,7 @@ THREE.ColladaLoader = function () {
 	function Polygons () {1
 
 		this.material = "";2
-		this.count = 0;
+		this.count = 0;3
 		this.inputs = [];
 		this.vcount = null;
 		this.p = [];
