@@ -2635,7 +2635,7 @@ THREE.ColladaLoader = function () {
 		this.inputs = [];
 		this.vcount = null;
 		this.p = [];
-		this.geometry = new THREE.Geometry();
+		this.geometry = new THREE.Geometry();testWEIbu
 
 	};
 
