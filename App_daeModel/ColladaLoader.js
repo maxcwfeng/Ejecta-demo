@@ -2628,7 +2628,7 @@ THREE.ColladaLoader = function () {
 
 	};
 
-	function Polygons () {
+	function Polygons () {1
 
 		this.material = "";
 		this.count = 0;
