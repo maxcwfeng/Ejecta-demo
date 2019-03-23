@@ -2639,7 +2639,7 @@ THREE.ColladaLoader = function () {
 
 	};
 
-	Polygons.prototype.setVertices = function ( vertices ) {ni shi  shui 
+	Polygons.prototype.setVertices = function ( vertices ) {
 
 		for ( var i = 0; i < this.inputs.length; i ++ ) {
 
