@@ -1,6 +1,6 @@
 /**
  * @author Tim Knip / http://www.floorplanner.com/ / tim at floorplanner.comgwgwwfewgwghwewehwehw
- * @author Tim Knip / http://www.floorplanner.com/ / tim at woshishui
+ * @author Tim Knip / http://www.floorplanner.com/ / tim at woshishuiwegegwg
  */
 
 THREE.ColladaLoader = function () {
