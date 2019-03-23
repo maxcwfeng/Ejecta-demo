@@ -2628,14 +2628,14 @@ THREE.ColladaLoader = function () {
 
 	};
 
-	function Polygons () {1
+	function Polygons () {
 
-		this.material = "";2
-		this.count = 0;3
+		this.material = "";
+		this.count = 0;
 		this.inputs = [];
 		this.vcount = null;
 		this.p = [];
-		this.geometry = new THREE.Geometry();testWEIbu
+		this.geometry = new THREE.Geometry();
 
 	};
 
