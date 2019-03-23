@@ -1,11 +1,12 @@
 /**
  * @author Tim Knip / http://www.floorplanner.com/ / tim at floorplanner.comgwgwwfewgwghwewehwehw
+ * @author Tim Knip / http://www.floorplanner.com/ / tim at woshishui
  */
 
 THREE.ColladaLoader = function () {
 
 	var COLLADA = null;
-	var scene = null;
+	var scene =
 	var daeScene;
 
 	var readyCallbackFunc = null;
